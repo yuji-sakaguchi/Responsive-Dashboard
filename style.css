@@ -283,14 +283,14 @@ main .analyze .sales svg circle {
 
 main .analyze .visits svg circle {
     stroke: var(--color-danger);
-    stroke-dashoffset: -30;
-    stroke-dasharray: 200;
+    stroke-dashoffset: 20;
+    stroke-dasharray: 80;
 }
 
 main .analyze .searches svg circle {
     stroke: var(--color-primary);
-    stroke-dashoffset: -30;
-    stroke-dasharray: 200;
+    stroke-dashoffset: 35;
+    stroke-dasharray: 110;
 }
 
 main .analyze .progress .percentage {
