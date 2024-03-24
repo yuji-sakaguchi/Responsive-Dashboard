@@ -1,11 +1,15 @@
-# DashSync
+# DashSync Responsive Front-End Website
 
-### Responsive Animated Admin Dashboard Front-End Website
+### Description:
+This repository showcases the development of a responsive animated admin dashboard front-end website called DashSync. The dashboard provides administrators with real-time analytics for their websites, ensuring a seamless and user-friendly experience. 
+By integrating modern design principles and a user-centric approach, DashSync offers a visually appealing and intuitive interface enhanced with dual theme functionality.
 
-DashSync allows an admin to see their current analytics on their website. DashSync is crafted to offer a seamless and user-friendly experience. 
-Combining modern design principles with a user-centric approach, DashSync integrates dual theme functionality to deliver a visually appealing and intuitive interface.
-
-Built with Javascript, HTML, CSS
+### Key Features:
+- Responsive and animated admin dashboard front-end website.
+- Real-time analytics display for website administrators.
+- Seamlessly integrates dual theme functionality for enhanced user experience.
+- Crafted with modern design principles and a user-centric approach.
+- Built using JavaScript, HTML, and CSS for robust functionality and visual appeal.
 
 ![image](https://github.com/yuji-sakaguchi/Responsive-Dashboard/assets/92128100/06041ee3-ce6a-4539-b87b-11af7009ed52)
 ![image](https://github.com/yuji-sakaguchi/Responsive-Dashboard/assets/92128100/c2ff568d-493d-4d33-a2ae-2d09096f978c)
